@@ -1,0 +1,16 @@
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.deps.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.runtimeconfig.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.runtimeconfig.dev.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.pdb
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.csprojResolveAssemblyReference.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.csproj.CoreCompileInputs.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.AssemblyInfoInputs.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.AssemblyInfo.cs
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.Tests.pdb
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI.Tests\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.pdb

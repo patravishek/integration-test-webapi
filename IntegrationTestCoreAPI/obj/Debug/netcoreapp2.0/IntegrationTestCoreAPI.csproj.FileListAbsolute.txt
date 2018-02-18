@@ -1,0 +1,11 @@
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.deps.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.runtimeconfig.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.runtimeconfig.dev.json
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\bin\Debug\netcoreapp2.0\IntegrationTestCoreAPI.pdb
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.csprojResolveAssemblyReference.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.csproj.CoreCompileInputs.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.AssemblyInfoInputs.cache
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.AssemblyInfo.cs
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.dll
+D:\projects\integration-test-webapi\IntegrationTestCoreAPI\IntegrationTestCoreAPI\obj\Debug\netcoreapp2.0\IntegrationTestCoreAPI.pdb
